@@ -3,10 +3,10 @@ body, html {width: 100%; height: 100%; margin: 0; font-family: 'Lucida Sans', 'L
 .body-mar {background-image: url(imagens/oceano-fundo.png); background-size: cover; background-repeat: no-repeat; background-position: bottom;}
 .body-terra {background-image: url(imagens/cidade-fundo.png); background-size: cover; background-repeat: no-repeat; background-position: bottom;}
 
-.ceu {background-image: url(imagens/ceu.png); background-size: cover; height: 50%;   background-position: center;
+.ceu {background-image: url(../save2live/imagens/ceu.png); background-size: cover; height: 50%;   background-position: center;
     background-repeat: no-repeat; background-position: top;}
     
-.mar {background-image: url(imagens/mar.png); background-size: cover; height: 50%;   background-position: center;
+.mar {background-image: url(../save2live/imagens/mar.png); background-size: cover; height: 50%;   background-position: center;
     background-repeat: no-repeat; background-position: bottom;}
 
 .all { position: relative; width: 100%; height: 100%;}
